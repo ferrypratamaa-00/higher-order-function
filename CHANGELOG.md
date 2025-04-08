@@ -5,3 +5,4 @@
 - challenge-1 to 4 in filter/
 - Filter logic implementation
 - doc.md explaining filter logic
+- add changelog
