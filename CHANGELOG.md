@@ -26,3 +26,10 @@
 
 -   ✅ Folder `recap/reduce/`
     -   Recap challenge dari 1 → 3
+
+## [hof-1.0.5] - 2025-04-09
+
+### Added
+
+-   ✅ Folder `forEach/`
+    -   Materi Baru challenge dari 1 → 3
