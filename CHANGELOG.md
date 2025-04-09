@@ -19,3 +19,10 @@
     -   Recap challenge dari easy → hard (6 file total)
 -   📄 README.md sama doc.md buat penjelasan/notes
 -   🗺 RoadMap.png buat gambaran belajar
+
+## [hof-1.0.4] - 2025-04-09
+
+### Added
+
+-   ✅ Folder `recap/reduce/`
+    -   Recap challenge dari 1 → 3
